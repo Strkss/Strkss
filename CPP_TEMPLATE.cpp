@@ -1,9 +1,5 @@
 //Thư viện
 #include <bits/stdc++.h>
-//#include <iomanip>
-//#include <string>
-//#include <algorithm>
-//#include <cmath>
 
 //Namespace
 using namespace std;
