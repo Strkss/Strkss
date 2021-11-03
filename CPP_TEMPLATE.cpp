@@ -2,7 +2,7 @@
 
 using namespace std;
 
-#define Text HelloWord
+#define Text "Hello World;"
 #define Fast_IO ios::sync_with_stdio(false);cin.tie(0);cout.tie(0);
 #define wh while
 #define fu(i,a,b,c) for(ll i=a;i<=b;i+=c)
@@ -31,7 +31,7 @@ using namespace std;
 #define elif else if
 #define ndmax 1976807737
 #define rt return
-#define HelloWord "Hello I'm Apok this's my acc and my code , do not copy it"
+#define HelloWord "Hello, Im Strkss!"
 #define outfi(o,n) cout<<fixed<<setprecision(o)<<n
 #define upper(a,i,s) upper_bound(a,a+1+i,s)
 #define lower(a,i,s) lower_bound(a,a+1+i,s)
