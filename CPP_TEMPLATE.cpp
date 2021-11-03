@@ -1,7 +1,10 @@
+//Thư viện
 #include<bits/stdc++.h>
 
+//Namespace
 using namespace std;
 
+//Define
 #define Text "Hello World;"
 #define Fast_IO ios::sync_with_stdio(false);cin.tie(0);cout.tie(0);
 #define wh while
@@ -37,6 +40,7 @@ using namespace std;
 #define lower(a,i,s) lower_bound(a,a+1+i,s)
 #define getl(s) getline(cin,s);
 
+//Main
 int main()
 {
     Fast_IO;
