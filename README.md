@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Strkss
-- 👀 I’m interested in english, music, video games, board games.
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👀 I’m interested in english, music, video games and board games.
+- 🌱 I’m currently learning C#, C++ and Unity 3D
+- 📫 How to reach me:
+  + Discord: _Strkss#0245
 
 <!---
 Strkss/Strkss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
