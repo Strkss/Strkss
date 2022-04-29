@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Strkss
-- 👀 I’m interested in english, music, video games and board games.
-- 🌱 I’m currently learning C#, C++ and Unity 3D
+- 👀 I’m interested in CP.
+- 🌱 I’m currently learning C++, Python and Javascript.
 - 📫 How to reach me:
   + Discord: _Strkss#0245
 
