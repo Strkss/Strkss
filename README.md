@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Strkss
 - 👀 I’m interested in CP.
-- 🌱 I’m currently learning C++, Python and Javascript.
+- 🌱 I’m currently learning C++, Python and Java.
 - 📫 How to reach me:
   + Discord: _Strkss#0245
 
